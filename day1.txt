@@ -1,2 +1,3 @@
 new text
 1 more line
+edited from git 
